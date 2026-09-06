@@ -3,7 +3,9 @@ from playwright.sync_api import sync_playwright
 with sync_playwright() as p:
     context = p.chromium.launch_persistent_context(
         user_data_dir="whatsapp_session",
-        headless=False
+        headless=False,
+        args=["--start-maximized"],
+        no_viewport=True
     )
 
     page = context.pages[0] if context.pages else context.new_page()

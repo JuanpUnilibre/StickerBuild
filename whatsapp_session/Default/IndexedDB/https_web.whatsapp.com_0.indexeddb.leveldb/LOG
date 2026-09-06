@@ -1,43 +1,17 @@
-2026/09/05-21:33:42.821 402c Creating DB C:\Users\Juan Pablo\Documents\Pruebas folder\Python\StickerBuild\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2026/09/05-21:33:42.829 402c Reusing MANIFEST C:\Users\Juan Pablo\Documents\Pruebas folder\Python\StickerBuild\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/09/05-21:34:18.297 402c Level-0 table #5: started
-2026/09/05-21:34:18.319 402c Level-0 table #5: 1018180 bytes OK
-2026/09/05-21:34:18.321 402c Delete type=0 #3
-2026/09/05-21:34:27.001 402c Level-0 table #7: started
-2026/09/05-21:34:27.023 402c Level-0 table #7: 1025524 bytes OK
-2026/09/05-21:34:27.025 402c Delete type=0 #4
-2026/09/05-21:34:27.027 402c Compacting 1@1 + 1@2 files
-2026/09/05-21:34:27.066 402c Generated table #8@1: 21535 keys, 975802 bytes
-2026/09/05-21:34:27.066 402c Compacted 1@1 + 1@2 files => 975802 bytes
-2026/09/05-21:34:27.067 402c compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/09/05-21:34:27.068 402c Delete type=2 #5
-2026/09/05-21:34:27.068 402c Delete type=2 #7
-2026/09/05-21:34:29.311 44c4 Level-0 table #10: started
-2026/09/05-21:34:29.342 44c4 Level-0 table #10: 1140477 bytes OK
-2026/09/05-21:34:29.344 44c4 Delete type=0 #6
-2026/09/05-21:34:29.411 402c Compacting 1@1 + 1@2 files
-2026/09/05-21:34:29.458 402c Generated table #11@1: 29615 keys, 1539614 bytes
-2026/09/05-21:34:29.458 402c Compacted 1@1 + 1@2 files => 1539614 bytes
-2026/09/05-21:34:29.459 402c compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/09/05-21:34:32.182 3bdc Level-0 table #13: started
-2026/09/05-21:34:32.217 3bdc Level-0 table #13: 591406 bytes OK
-2026/09/05-21:34:32.220 3bdc Delete type=2 #8
-2026/09/05-21:34:32.220 3bdc Delete type=0 #9
-2026/09/05-21:34:32.220 3bdc Delete type=2 #10
-2026/09/05-21:34:32.223 44c4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/09/05-21:34:32.223 44c4 Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x03!\x06\x09\xff\xe6>\xf3d\xd8\x98\xc6\x04\x00\x03\x00\x00\x00\x00\x00\x00Q@' @ 146464 : 1
-2026/09/05-21:34:32.223 44c4 Compacting 1@1 + 1@2 files
-2026/09/05-21:34:32.333 44c4 Generated table #14@1: 39585 keys, 1951813 bytes
-2026/09/05-21:34:32.333 44c4 Compacted 1@1 + 1@2 files => 1951813 bytes
-2026/09/05-21:34:32.334 44c4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/09/05-21:34:32.335 44c4 Delete type=2 #13
-2026/09/05-21:34:32.335 44c4 Manual compaction at level-1 from '\x00\x04\x03!\x06\x09\xff\xe6>\xf3d\xd8\x98\xc6\x04\x00\x03\x00\x00\x00\x00\x00\x00Q@' @ 146464 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/09/05-21:34:37.465 3bdc Level-0 table #16: started
-2026/09/05-21:34:37.499 3bdc Level-0 table #16: 1282648 bytes OK
-2026/09/05-21:34:37.500 3bdc Delete type=2 #11
-2026/09/05-21:34:37.500 3bdc Delete type=0 #12
-2026/09/05-21:34:37.561 3bdc Compacting 1@1 + 1@2 files
-2026/09/05-21:34:37.635 3bdc Generated table #17@1: 38404 keys, 2196328 bytes
-2026/09/05-21:34:37.639 3bdc Generated table #18@1: 1192 keys, 43341 bytes
-2026/09/05-21:34:37.639 3bdc Compacted 1@1 + 1@2 files => 2239669 bytes
-2026/09/05-21:34:37.640 3bdc compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/09/05-21:40:34.472 4dcc Reusing MANIFEST C:\Users\Juan Pablo\Documents\Pruebas folder\Python\StickerBuild\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/05-21:40:34.472 4dcc Recovering log #28
+2026/09/05-21:40:34.504 4dcc Reusing old log C:\Users\Juan Pablo\Documents\Pruebas folder\Python\StickerBuild\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000028.log 
+2026/09/05-21:40:34.504 4dcc Delete type=2 #26
+2026/09/05-21:40:34.504 4dcc Delete type=2 #27
+2026/09/05-21:40:34.504 4dcc Delete type=2 #29
+2026/09/05-21:40:40.504 4dcc Level-0 table #34: started
+2026/09/05-21:40:40.532 4dcc Level-0 table #34: 1136295 bytes OK
+2026/09/05-21:40:40.534 4dcc Delete type=0 #28
+2026/09/05-21:40:40.855 4dcc Compacting 1@1 + 2@2 files
+2026/09/05-21:40:40.926 4dcc Generated table #35@1: 43326 keys, 2195963 bytes
+2026/09/05-21:40:40.958 4dcc Generated table #36@1: 14835 keys, 1483535 bytes
+2026/09/05-21:40:40.958 4dcc Compacted 1@1 + 2@2 files => 3679498 bytes
+2026/09/05-21:40:40.959 4dcc compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/09/05-21:40:40.959 4dcc Delete type=2 #30
+2026/09/05-21:40:40.959 4dcc Delete type=2 #31
+2026/09/05-21:40:40.959 4dcc Delete type=2 #34
