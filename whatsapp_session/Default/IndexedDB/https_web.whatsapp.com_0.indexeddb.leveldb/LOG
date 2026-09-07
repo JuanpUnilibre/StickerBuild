@@ -1,17 +1,22 @@
-2026/09/05-21:40:34.472 4dcc Reusing MANIFEST C:\Users\Juan Pablo\Documents\Pruebas folder\Python\StickerBuild\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/09/05-21:40:34.472 4dcc Recovering log #28
-2026/09/05-21:40:34.504 4dcc Reusing old log C:\Users\Juan Pablo\Documents\Pruebas folder\Python\StickerBuild\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000028.log 
-2026/09/05-21:40:34.504 4dcc Delete type=2 #26
-2026/09/05-21:40:34.504 4dcc Delete type=2 #27
-2026/09/05-21:40:34.504 4dcc Delete type=2 #29
-2026/09/05-21:40:40.504 4dcc Level-0 table #34: started
-2026/09/05-21:40:40.532 4dcc Level-0 table #34: 1136295 bytes OK
-2026/09/05-21:40:40.534 4dcc Delete type=0 #28
-2026/09/05-21:40:40.855 4dcc Compacting 1@1 + 2@2 files
-2026/09/05-21:40:40.926 4dcc Generated table #35@1: 43326 keys, 2195963 bytes
-2026/09/05-21:40:40.958 4dcc Generated table #36@1: 14835 keys, 1483535 bytes
-2026/09/05-21:40:40.958 4dcc Compacted 1@1 + 2@2 files => 3679498 bytes
-2026/09/05-21:40:40.959 4dcc compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/09/05-21:40:40.959 4dcc Delete type=2 #30
-2026/09/05-21:40:40.959 4dcc Delete type=2 #31
-2026/09/05-21:40:40.959 4dcc Delete type=2 #34
+2026/09/06-20:47:45.304 14ec Reusing MANIFEST C:\Users\Juan Pablo\Documents\Pruebas folder\Python\StickerBuild\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/06-20:47:45.305 14ec Recovering log #232
+2026/09/06-20:47:45.315 14ec Reusing old log C:\Users\Juan Pablo\Documents\Pruebas folder\Python\StickerBuild\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000232.log 
+2026/09/06-20:47:53.054 6ff0 Level-0 table #242: started
+2026/09/06-20:47:53.083 6ff0 Level-0 table #242: 1218570 bytes OK
+2026/09/06-20:47:53.085 6ff0 Delete type=0 #232
+2026/09/06-20:47:59.585 6ff0 Compacting 1@1 + 6@2 files
+2026/09/06-20:47:59.681 6ff0 Generated table #243@1: 83264 keys, 2295413 bytes
+2026/09/06-20:47:59.733 6ff0 Generated table #244@1: 28925 keys, 2186113 bytes
+2026/09/06-20:47:59.762 6ff0 Generated table #245@1: 2808 keys, 2157759 bytes
+2026/09/06-20:47:59.847 6ff0 Generated table #246@1: 19771 keys, 2223955 bytes
+2026/09/06-20:47:59.885 6ff0 Generated table #247@1: 16151 keys, 2176693 bytes
+2026/09/06-20:47:59.927 6ff0 Generated table #248@1: 51085 keys, 1985242 bytes
+2026/09/06-20:47:59.927 6ff0 Compacted 1@1 + 6@2 files => 13025175 bytes
+2026/09/06-20:47:59.928 6ff0 compacted to: files[ 0 0 6 0 0 0 0 ]
+2026/09/06-20:47:59.928 6ff0 Delete type=2 #234
+2026/09/06-20:47:59.928 6ff0 Delete type=2 #235
+2026/09/06-20:47:59.928 6ff0 Delete type=2 #236
+2026/09/06-20:47:59.928 6ff0 Delete type=2 #237
+2026/09/06-20:47:59.929 6ff0 Delete type=2 #238
+2026/09/06-20:47:59.929 6ff0 Delete type=2 #239
+2026/09/06-20:47:59.929 6ff0 Delete type=2 #242
